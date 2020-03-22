@@ -8,3 +8,13 @@ C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\Halo Universal AimBot\
 C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\Halo Universal AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.exe
 C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\Halo Universal AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.xml
 C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\Halo Universal AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.pdb
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\bin\Debug\Halo Universal AimBot.exe.config
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.exe
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.xml
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.pdb
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\bin\Debug\Halo Universal AimBot.exe
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\bin\Debug\Halo Universal AimBot.pdb
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\bin\Debug\Halo Universal AimBot.xml
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo_Universal_AimBot.Main.resources
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo_Universal_AimBot.Resources.resources
+C:\Users\S4lsalsoft\Documents\Github\Halo-Universal-AimBot\Halo Universal AimBot\obj\Debug\Halo Universal AimBot.vbproj.GenerateResource.Cache

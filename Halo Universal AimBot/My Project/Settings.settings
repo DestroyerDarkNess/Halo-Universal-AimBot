@@ -18,7 +18,7 @@
       <Value Profile="(Default)">15</Value>
     </Setting>
     <Setting Name="s_aimKey" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">0</Value>
+      <Value Profile="(Default)">16</Value>
     </Setting>
   </Settings>
 </SettingsFile>

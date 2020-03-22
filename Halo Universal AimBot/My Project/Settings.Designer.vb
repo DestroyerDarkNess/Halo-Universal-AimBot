@@ -116,7 +116,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("0")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("16")>  _
         Public Property s_aimKey() As Integer
             Get
                 Return CType(Me("s_aimKey"),Integer)
